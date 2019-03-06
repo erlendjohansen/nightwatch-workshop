@@ -1,0 +1,17 @@
+{
+  "name": "pam-stillingsok-qa",
+  "version": "1.0.0",
+  "description": "Funksjonelle akseptansetester for PAM-stillingsøk",
+  "scripts": {
+    "chrome": "node_modules/.bin/nightwatch --config nightwatch.conf.js",
+    "firefox": "node_modules/.bin/nightwatch --config nightwatch.conf.js --env firefox"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "chromedriver": "^2.46.0",
+    "geckodriver": "^1.16.0",
+    "nightwatch": "^1.0.19",
+    "selenium-server-standalone-jar": "^3.141.5"
+  }
+}
