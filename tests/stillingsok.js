@@ -7,7 +7,7 @@ module.exports = {
             .expect.element('.SearchResults').text.to.contain('Butikkmedarbeider');
     },
 
-    'Åpne færste treff': function(browser) {
+    'Åpne første treff': function(browser) {
         browser
             .click('.SearchResultItem__link')
             .waitForElementVisible('.EmploymentDetails')
