@@ -31,5 +31,5 @@ med f. eks. "Butikkmedarbeider" som søkeord.
 Og verifiser at søkeordet finnes i søkeresultatet.
 
 ##### Oppgave 3
-Lag et nytt teststeg sin åpner den første annonsen
+Lag et nytt teststeg som åpner den første annonsen
 og verifiser at stillingstittel er lik søkeordet.
