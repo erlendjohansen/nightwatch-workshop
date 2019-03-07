@@ -23,7 +23,7 @@ http://nightwatchjs.org
 ### Oppgaver
 
 ##### Oppgave 1
-Kjør testene. Kjør en singel test. Kjør testene i parallell.
+Kjør testene. Kjør en singel test. Kjør testene i parallell. Kjør testene i Firefox.
 
 ##### Oppgave 2
 Gå til https://arbeidsplassen.nav.no/stillinger og søk på en stilling,
